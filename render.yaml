@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: api-monty-python
+    runtime: node
+    buildCommand: npm install
+    startCommand: node server.js
+    healthCheckPath: /health         # <-- Render vigilará este endpoint para saber si la API está viva
+    envVars:
+      - key: NODE_ENV
+        value: production

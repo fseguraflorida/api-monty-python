@@ -1,0 +1,1882 @@
+{
+  "archivo_maestro": "The Monty Python API",
+  "ultima_actualizacion": "2026",
+  "datos_globales": {
+    "origen": "Reino Unido",
+    "año_fundacion": 1969,
+    "miembros_fundadores": [
+      "Graham Chapman",
+      "John Cleese",
+      "Terry Gilliam",
+      "Eric Idle",
+      "Terry Jones",
+      "Michael Palin"
+    ]
+  },
+  "serie_televisiva": {
+    "serie": "Monty Python's Flying Circus",
+    "temporadas_totales": 4,
+    "datos": [
+      {
+        "temporada": 1,
+        "año_emision": "1969-1970",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Whither Canada?",
+            "duracion_minutos": 30,
+            "sinopsis": "El debut de la serie presenta sketches icónicos sobre el chiste más letal del mundo usado en la guerra y una surrealista clase de italiano para nativos.",
+            "sketches": [
+              {
+                "nombre": "Famous Deaths (Muertes famosas)",
+                "personajes": [
+                  {
+                    "personaje": "Wolfgang Amadeus Mozart",
+                    "actor": "John Cleese"
+                  }
+                ]
+              },
+              {
+                "nombre": "Italian Lesson (Clase de italiano)",
+                "personajes": [
+                  { "personaje": "Profesor Francesco", "actor": "John Cleese" },
+                  { "personaje": "Alumno 1", "actor": "Michael Palin" },
+                  { "personaje": "Alumno 2", "actor": "Terry Jones" },
+                  { "personaje": "Alumno 3", "actor": "Graham Chapman" }
+                ]
+              },
+              {
+                "nombre": "Whizzo Butter (Mantequilla Whizzo)",
+                "personajes": [
+                  {
+                    "personaje": "Presentador del comercial",
+                    "actor": "Michael Palin"
+                  }
+                ]
+              },
+              {
+                "nombre": "Arthur 'Two Sheds' Jackson",
+                "personajes": [
+                  {
+                    "personaje": "Arthur 'Two Sheds' Jackson",
+                    "actor": "Terry Jones"
+                  },
+                  { "personaje": "Entrevistador de TV", "actor": "John Cleese" }
+                ]
+              },
+              {
+                "nombre": "The Funniest Joke in the World (El chiste más gracioso del mundo)",
+                "personajes": [
+                  {
+                    "personaje": "Ernest Scribbler (Escritor)",
+                    "actor": "Michael Palin"
+                  },
+                  {
+                    "personaje": "Sra. Scribbler (Madre)",
+                    "actor": "Terry Jones"
+                  },
+                  {
+                    "personaje": "Inspector de policía",
+                    "actor": "Graham Chapman"
+                  },
+                  {
+                    "personaje": "Oficial del ejército 1",
+                    "actor": "John Cleese"
+                  },
+                  {
+                    "personaje": "Oficial del ejército 2",
+                    "actor": "Eric Idle"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "numero": 2,
+            "titulo": "Sex and Violence",
+            "duracion_minutos": 34,
+            "sinopsis": "Sátira ácida hacia los comités de censura de la televisión británica, ovejas que caen del cielo e incomodidad social extrema.",
+            "sketches": [
+              {
+                "nombre": "Flying Sheep (Ovejas voladoras)",
+                "personajes": [
+                  { "personaje": "Harold (Pastor)", "actor": "Graham Chapman" },
+                  {
+                    "personaje": "Científico / Conferenciante",
+                    "actor": "John Cleese"
+                  }
+                ]
+              },
+              {
+                "nombre": "A Man with Three Buttocks (El hombre de tres nalgas)",
+                "personajes": [
+                  { "personaje": "Arthur Frampton", "actor": "Terry Jones" },
+                  { "personaje": "Entrevistador", "actor": "Eric Idle" }
+                ]
+              },
+              {
+                "nombre": "Marriage Guidance Counsellor (Consejero matrimonial)",
+                "personajes": [
+                  {
+                    "personaje": "Arthur Pewtey (Esposo)",
+                    "actor": "Michael Palin"
+                  },
+                  {
+                    "personaje": "Deirdre Pewtey (Esposa)",
+                    "actor": "Carol Cleveland"
+                  },
+                  {
+                    "personaje": "Consejero matrimonial",
+                    "actor": "John Cleese"
+                  }
+                ]
+              },
+              {
+                "nombre": "The Mouse Problem (El problema del ratón)",
+                "personajes": [
+                  {
+                    "personaje": "Presentador del informe",
+                    "actor": "John Cleese"
+                  },
+                  {
+                    "personaje": "Sr. Arthur Haynes (Humano-ratón)",
+                    "actor": "Terry Jones"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "numero": 3,
+            "titulo": "How to Recognise Different Types of Trees from Quite a Long Way Away",
+            "duracion_minutos": 30,
+            "sinopsis": "Incluye el clásico e irreverente sketch 'Nudge Nudge' y una crisis de histeria colectiva en un restaurante fino provocada por un tenedor sucio.",
+            "sketches": [
+              {
+                "nombre": "Courtroom Sketch (Juicio absurdo)",
+                "personajes": [
+                  { "personaje": "Juez", "actor": "Terry Jones" },
+                  { "personaje": "Abogado defensor", "actor": "John Cleese" },
+                  {
+                    "personaje": "Inspector de policía",
+                    "actor": "Graham Chapman"
+                  }
+                ]
+              },
+              {
+                "nombre": "Bicycle Repairman (El reparador de bicicletas)",
+                "personajes": [
+                  {
+                    "personaje": "Bicycle Repairman (F.G. Superman)",
+                    "actor": "Michael Palin"
+                  }
+                ]
+              },
+              {
+                "nombre": "The Dirty Fork (El tenedor sucio)",
+                "personajes": [
+                  {
+                    "personaje": "Cliente (Esposo)",
+                    "actor": "Graham Chapman"
+                  },
+                  {
+                    "personaje": "Cliente (Esposa)",
+                    "actor": "Carol Cleveland"
+                  },
+                  { "personaje": "Camarero (Gaston)", "actor": "Terry Jones" },
+                  { "personaje": "Maître (Mungo)", "actor": "Michael Palin" },
+                  {
+                    "personaje": "Gerente del restaurante",
+                    "actor": "John Cleese"
+                  },
+                  {
+                    "personaje": "Cocinero principal (Gilberto)",
+                    "actor": "Eric Idle"
+                  }
+                ]
+              },
+              {
+                "nombre": "Nudge Nudge (Codo, codo)",
+                "personajes": [
+                  {
+                    "personaje": "Hombre indiscreto del bar",
+                    "actor": "Eric Idle"
+                  },
+                  { "personaje": "Caballero formal", "actor": "Terry Jones" }
+                ]
+              }
+            ]
+          },
+          {
+            "numero": 4,
+            "titulo": "Owl-Stretching Time",
+            "duracion_minutos": 30,
+            "sinopsis": "Se populariza la cortinilla de transición de la serie y un instructor de defensa personal enseña tácticas ridículas contra asaltantes armados con frutas.",
+            "sketches": [
+              {
+                "nombre": "And Now for Something Completely Different",
+                "personajes": [
+                  {
+                    "personaje": "Presentador de la frase",
+                    "actor": "John Cleese"
+                  }
+                ]
+              },
+              {
+                "nombre": "Self-Defence Against Fresh Fruit (Defensa personal contra fruta fresca)",
+                "personajes": [
+                  {
+                    "personaje": "Sargento Instructor",
+                    "actor": "John Cleese"
+                  },
+                  { "personaje": "Recluta 1", "actor": "Graham Chapman" },
+                  { "personaje": "Recluta 2", "actor": "Michael Palin" },
+                  { "personaje": "Recluta 3", "actor": "Eric Idle" }
+                ]
+              },
+              {
+                "nombre": "Secret Service Dentists (Dentistas del servicio secreto)",
+                "personajes": [
+                  { "personaje": "Arthur Lemming", "actor": "Graham Chapman" },
+                  {
+                    "personaje": "Agente de inteligencia / Dentista",
+                    "actor": "John Cleese"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "numero": 5,
+            "titulo": "Man's Crisis of Identity in the Latter Half of the Twentieth Century",
+            "duracion_minutos": 30,
+            "sinopsis": "Una agencia profesional se encarga de confundir psicológicamente a un gato deprimido, seguido de una destructiva entrevista de trabajo.",
+            "sketches": [
+              {
+                "nombre": "Confuse-a-Cat (Confundir a un gato)",
+                "personajes": [
+                  {
+                    "personaje": "Sr. Custard (Dueño)",
+                    "actor": "John Cleese"
+                  },
+                  { "personaje": "Sra. Custard", "actor": "Graham Chapman" },
+                  {
+                    "personaje": "Médico veterinario",
+                    "actor": "Michael Palin"
+                  },
+                  {
+                    "personaje": "Especialista de Confuse-a-Cat",
+                    "actor": "Eric Idle"
+                  }
+                ]
+              },
+              {
+                "nombre": "The Silly Job Interview (La entrevista de trabajo absurda)",
+                "personajes": [
+                  {
+                    "personaje": "Entrevistador excéntrico",
+                    "actor": "John Cleese"
+                  },
+                  {
+                    "personaje": "Solicitante del empleo",
+                    "actor": "Michael Palin"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "numero": 6,
+            "titulo": "It's the Arts",
+            "duracion_minutos": 30,
+            "sinopsis": "Un programa cultural analiza obras absurdas y un inspector de salud interroga a un confitero por ingredientes altamente repugnantes.",
+            "sketches": [
+              {
+                "nombre": "The 'It's' Man",
+                "personajes": [
+                  { "personaje": "Náufrago barbudo", "actor": "Michael Palin" }
+                ]
+              },
+              {
+                "nombre": "Crunchy Frog (Rana crujiente / Inspectores de salud)",
+                "personajes": [
+                  { "personaje": "Inspector Praline", "actor": "John Cleese" },
+                  {
+                    "personaje": "Sr. Jones (Fabricante)",
+                    "actor": "Terry Jones"
+                  },
+                  {
+                    "personaje": "Inspector de policía",
+                    "actor": "Graham Chapman"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "numero": 7,
+            "titulo": "You're No Fun Any More",
+            "duracion_minutos": 30,
+            "sinopsis": "Una bizarra expedición busca camellos en lugares equivocados mientras unos flanes alienígenas gigantes conspiran en las canchas de tenis.",
+            "sketches": [
+              {
+                "nombre": "Camel Spotting (Avistamiento de camellos)",
+                "personajes": [
+                  { "personaje": "Peter Gorilla", "actor": "John Cleese" },
+                  { "personaje": "Capitán Camel", "actor": "Graham Chapman" }
+                ]
+              },
+              {
+                "nombre": "Blancmanges Playing Tennis (Flanes del espacio)",
+                "personajes": [
+                  {
+                    "personaje": "Invasores del espacio (Flanes gigantes)",
+                    "actor": "Terry Gilliam (Animación)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "numero": 8,
+            "titulo": "Full Frontal Nudity",
+            "duracion_minutos": 30,
+            "sinopsis": "Episodio histórico que contiene 'El loro muerto', la queja comercial más famosa de la televisión, rematada con la canción del leñador travesti.",
+            "sketches": [
+              {
+                "nombre": "The Dead Parrot (El loro muerto)",
+                "personajes": [
+                  {
+                    "personaje": "Sr. Praline (Cliente)",
+                    "actor": "John Cleese"
+                  },
+                  {
+                    "personaje": "Dueño de la tienda",
+                    "actor": "Michael Palin"
+                  }
+                ]
+              },
+              {
+                "nombre": "The Lumberjack Song (La canción del leñador)",
+                "personajes": [
+                  { "personaje": "Leñador", "actor": "Michael Palin" },
+                  { "personaje": "Su novia", "actor": "Connie Booth" },
+                  {
+                    "personaje": "Coro de policías canadienses (Miembro 1)",
+                    "actor": "Graham Chapman"
+                  },
+                  {
+                    "personaje": "Coro de policías canadienses (Miembro 2)",
+                    "actor": "John Cleese"
+                  },
+                  {
+                    "personaje": "Coro de policías canadienses (Miembro 3)",
+                    "actor": "Eric Idle"
+                  },
+                  {
+                    "personaje": "Coro de policías canadienses (Miembro 4)",
+                    "actor": "Terry Jones"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "numero": 9,
+            "titulo": "The Ant, an Introduction",
+            "duracion_minutos": 30,
+            "sinopsis": "Un documental falso sobre hormigas da paso a la historia de un barbero con fobia al cabello que sueña con ser leñador.",
+            "sketches": [
+              {
+                "nombre": "The Homicidal Barber (El barbero homicida)",
+                "personajes": [
+                  {
+                    "personaje": "Barbero perturbado",
+                    "actor": "Michael Palin"
+                  },
+                  {
+                    "personaje": "Cliente de la barbería",
+                    "actor": "John Cleese"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "numero": 10,
+            "titulo": "Untitled",
+            "duracion_minutos": 30,
+            "sinopsis": "Un criminal despistado intenta asaltar un comercio erróneo y conocemos las absurdas hazañas del peor atleta del mundo.",
+            "sketches": [
+              {
+                "nombre": "Bank Robber in a Lingerie Shop (Atraco en tienda de lencería)",
+                "personajes": [
+                  { "personaje": "Ladrón de bancos", "actor": "John Cleese" },
+                  {
+                    "personaje": "Dependiente de la tienda",
+                    "actor": "Eric Idle"
+                  }
+                ]
+              },
+              {
+                "nombre": "Ron Obvious",
+                "personajes": [
+                  {
+                    "personaje": "Ron Obvious (Atleta excéntrico)",
+                    "actor": "Terry Jones"
+                  },
+                  {
+                    "personaje": "Luigi Vercotti (Su mánager)",
+                    "actor": "Michael Palin"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "numero": 11,
+            "titulo": "The Royal Philharmonic Orchestra Goes to the Bathroom",
+            "duracion_minutos": 30,
+            "sinopsis": "Un grupo de venerables ancianas de un club social decide recrear batallas históricas de la forma más violenta y embarrada posible.",
+            "sketches": [
+              {
+                "nombre": "Batley Townswomen's Guild Presents the Battle of Pearl Harbour",
+                "personajes": [
+                  {
+                    "personaje": "Anciana en el barro 1",
+                    "actor": "Graham Chapman"
+                  },
+                  {
+                    "personaje": "Anciana en el barro 2",
+                    "actor": "John Cleese"
+                  },
+                  {
+                    "personaje": "Anciana en el barro 3",
+                    "actor": "Eric Idle"
+                  },
+                  {
+                    "personaje": "Anciana en el barro 4",
+                    "actor": "Terry Jones"
+                  },
+                  {
+                    "personaje": "Anciana en el barro 5",
+                    "actor": "Michael Palin"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "numero": 12,
+            "titulo": "The Naked Ant",
+            "duracion_minutos": 30,
+            "sinopsis": "Una delirante carrera de obstáculos y pruebas físicas diseñada exclusivamente para aristócratas con severos problemas mentales.",
+            "sketches": [
+              {
+                "nombre": "The Upper-Class Twit of the Year (El tonto de clase alta del año)",
+                "personajes": [
+                  { "personaje": "Presentador", "actor": "John Cleese" },
+                  {
+                    "personaje": "Gerveys Brook-Hampstead",
+                    "actor": "Graham Chapman"
+                  },
+                  {
+                    "personaje": "Oliver St. John-Mollusc",
+                    "actor": "Michael Palin"
+                  },
+                  {
+                    "personaje": "Simon Zinc-Trumpet-Harris",
+                    "actor": "Eric Idle"
+                  },
+                  {
+                    "personaje": "Nigel Incubator-Jones",
+                    "actor": "Terry Jones"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "numero": 13,
+            "titulo": "Intermission",
+            "duracion_minutos": 30,
+            "sinopsis": "El cierre de temporada rompe la cuarta pared con imitaciones históricas desastrosas e interrupciones constantes al propio equipo de producción.",
+            "sketches": [
+              {
+                "nombre": "Historical Impersonations (Imitaciones históricas)",
+                "personajes": [
+                  {
+                    "personaje": "Cardenal Richelieu como gato",
+                    "actor": "Michael Palin"
+                  },
+                  {
+                    "personaje": "Julio César en luz de la calle",
+                    "actor": "John Cleese"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "temporada": 2,
+        "año_emision": "1970",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Dinsdale",
+            "duracion_minutos": 30,
+            "sinopsis": "Aparece por primera vez el legendario andar ridículo de John Cleese y un falso documental sobre dos gánsteres psicóticos de Londres.",
+            "sketches": [
+              {
+                "nombre": "The Ministry of Silly Walks (El ministerio de andares tontos)",
+                "personajes": [
+                  {
+                    "personaje": "John Pebbles (Solicitante)",
+                    "actor": "Michael Palin"
+                  },
+                  {
+                    "personaje": "Ministro de andares tontos",
+                    "actor": "John Cleese"
+                  }
+                ]
+              },
+              {
+                "nombre": "The Piranha Brothers (Los hermanos Piraña)",
+                "personajes": [
+                  {
+                    "personaje": "Entrevistador de TV",
+                    "actor": "John Cleese"
+                  },
+                  { "personaje": "Doug Piraña", "actor": "Graham Chapman" },
+                  { "personaje": "Dinsdale Piraña", "actor": "Michael Palin" },
+                  {
+                    "personaje": "Inspector de policía",
+                    "actor": "Terry Jones"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "numero": 2,
+            "titulo": "The Spanish Inquisition",
+            "duracion_minutos": 30,
+            "sinopsis": "Nadie la esperaba, pero irrumpe la Inquisición Española con torturas suaves como cojines, junto a un tribunal que prohíbe palabras comunes.",
+            "sketches": [
+              {
+                "nombre": "The Spanish Inquisition (La Inquisición Española)",
+                "personajes": [
+                  { "personaje": "Cardenal Ximénez", "actor": "Michael Palin" },
+                  { "personaje": "Cardenal Biggles", "actor": "Terry Jones" },
+                  { "personaje": "Cardenal Fang", "actor": "Terry Gilliam" },
+                  {
+                    "personaje": "Reginald (Ciudadano)",
+                    "actor": "Graham Chapman"
+                  },
+                  { "personaje": "Lady Mountback", "actor": "Carol Cleveland" }
+                ]
+              },
+              {
+                "nombre": "The Semprini Sketch / Forbidden Words",
+                "personajes": [
+                  {
+                    "personaje": "Presentador / Químico",
+                    "actor": "John Cleese"
+                  },
+                  { "personaje": "Cliente", "actor": "Michael Palin" }
+                ]
+              }
+            ]
+          },
+          {
+            "numero": 3,
+            "titulo": "Déjà Vu",
+            "duracion_minutos": 30,
+            "sinopsis": "Un ingenioso episodio que juega con la repetición constante y literal de sus propios sketches, imitando la sensación de déjà vu.",
+            "sketches": [
+              {
+                "nombre": "Déjà Vu Show",
+                "personajes": [
+                  {
+                    "personaje": "Presentador (Repitiendo escenas)",
+                    "actor": "Michael Palin"
+                  },
+                  {
+                    "personaje": "Invitado del programa",
+                    "actor": "John Cleese"
+                  }
+                ]
+              },
+              {
+                "nombre": "The Poet McTeagle",
+                "personajes": [
+                  { "personaje": "Ewan McTeagle", "actor": "Terry Jones" },
+                  { "personaje": "Entrevistador", "actor": "Michael Palin" }
+                ]
+              }
+            ]
+          },
+          {
+            "numero": 4,
+            "titulo": "The Buzz Aldrin Show",
+            "duracion_minutos": 30,
+            "sinopsis": "Dos arquitectos defienden sus diseños ante un comité: uno propone un edificio convencional y el otro un bloque de pisos que devora inquilinos.",
+            "sketches": [
+              {
+                "nombre": "The Architects Sketch (El sketch de los arquitectos)",
+                "personajes": [
+                  { "personaje": "Sr. Tid (Cliente)", "actor": "John Cleese" },
+                  {
+                    "personaje": "Sr. Wiggin (Arquitecto caníbal)",
+                    "actor": "John Cleese"
+                  },
+                  {
+                    "personaje": "Sr. Leandro (Arquitecto tradicional)",
+                    "actor": "Eric Idle"
+                  }
+                ]
+              },
+              {
+                "nombre": "The Chemist Shop (La botica de lencería)",
+                "personajes": [
+                  { "personaje": "Farmacéutico", "actor": "John Cleese" },
+                  {
+                    "personaje": "Cliente vergonzoso",
+                    "actor": "Graham Chapman"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "numero": 5,
+            "titulo": "Live from the Grill-O-Mat",
+            "duracion_minutos": 30,
+            "sinopsis": "Un retorcido programa de televisión extorsiona en directo a sus espectadores y una absurda organización debate sobre apilar objetos.",
+            "sketches": [
+              {
+                "nombre": "The Black Mail Show (Chantaje)",
+                "personajes": [
+                  {
+                    "personaje": "Presentador de Chantaje",
+                    "actor": "Michael Palin"
+                  }
+                ]
+              },
+              {
+                "nombre": "The Society for Putting Things on Top of Other Things",
+                "personajes": [
+                  {
+                    "personaje": "Presidente de la sociedad",
+                    "actor": "John Cleese"
+                  },
+                  { "personaje": "Miembro rico", "actor": "Graham Chapman" }
+                ]
+              }
+            ]
+          },
+          {
+            "numero": 6,
+            "titulo": "It's A Living",
+            "duracion_minutos": 30,
+            "sinopsis": "Una caótica cobertura periodística de una noche electoral británica donde compiten partidos políticos ridículos.",
+            "sketches": [
+              {
+                "nombre": "The Election Night Special (Especial noche de elecciones)",
+                "personajes": [
+                  {
+                    "personaje": "Presentador principal",
+                    "actor": "John Cleese"
+                  },
+                  {
+                    "personaje": "Candidato del partido 'Silly'",
+                    "actor": "Graham Chapman"
+                  },
+                  {
+                    "personaje": "Candidato del partido 'Sensible'",
+                    "actor": "Michael Palin"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "numero": 7,
+            "titulo": "The Attila the Hun Show",
+            "duracion_minutos": 30,
+            "sinopsis": "El temible líder guerrero protagoniza una comedia de situación familiar en los suburbios, intercalado con reportajes de ovejas carnívoras.",
+            "sketches": [
+              {
+                "nombre": "The Attila the Hun Show (El show de Atila el Huno)",
+                "personajes": [
+                  { "personaje": "Atila el Huno", "actor": "John Cleese" },
+                  { "personaje": "Esposa de Atila", "actor": "Terry Jones" }
+                ]
+              },
+              {
+                "nombre": "The Killer Sheep (Las ovejas asesinas)",
+                "personajes": [
+                  {
+                    "personaje": "Presentador de noticias",
+                    "actor": "John Cleese"
+                  },
+                  { "personaje": "Pastor preocupado", "actor": "Michael Palin" }
+                ]
+              }
+            ]
+          },
+          {
+            "numero": 8,
+            "titulo": "Archaeology Today",
+            "duracion_minutos": 30,
+            "sinopsis": "Un grupo de profesores universitarios australianos llamados Bruce imponen extrañas reglas alcohólicas en su facultad.",
+            "sketches": [
+              {
+                "nombre": "The Bruces (Los Bruce australianos)",
+                "personajes": [
+                  { "personaje": "Bruce 1", "actor": "Eric Idle" },
+                  { "personaje": "Bruce 2", "actor": "John Cleese" },
+                  { "personaje": "Bruce 3", "actor": "Graham Chapman" },
+                  {
+                    "personaje": "Bruce 4 / Michael Baldwin",
+                    "actor": "Michael Palin"
+                  }
+                ]
+              },
+              {
+                "nombre": "The Minister for Not Eating People",
+                "personajes": [
+                  {
+                    "personaje": "Ministro del gobierno",
+                    "actor": "John Cleese"
+                  },
+                  {
+                    "personaje": "Líder tribal africano",
+                    "actor": "Graham Chapman"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "numero": 9,
+            "titulo": "How Not to Be Seen",
+            "duracion_minutos": 30,
+            "sinopsis": "Un infame video instructivo del gobierno enseña al público a esconderse, haciendo estallar de forma literal a quienes fallan en el intento.",
+            "sketches": [
+              {
+                "nombre": "How Not to Be Seen (Cómo no ser visto)",
+                "personajes": [
+                  {
+                    "personaje": "Narrador / Instructor",
+                    "actor": "John Cleese"
+                  },
+                  {
+                    "personaje": "Sr. B.J. Smegma (Sujeto escondido)",
+                    "actor": "Graham Chapman"
+                  },
+                  { "personaje": "Sra. B.J. Smegma", "actor": "Terry Jones" }
+                ]
+              },
+              {
+                "nombre": "Conquistador Coffee Campaign",
+                "personajes": [
+                  {
+                    "personaje": "Ejecutivo de publicidad",
+                    "actor": "John Cleese"
+                  },
+                  { "personaje": "Cliente torturado", "actor": "Terry Jones" }
+                ]
+              }
+            ]
+          },
+          {
+            "numero": 10,
+            "titulo": "Spam",
+            "duracion_minutos": 30,
+            "sinopsis": "Nace el histórico sketch que dio origen al término digital 'spam': una cafetería donde absolutamente todos los platos llevan carne enlatada.",
+            "sketches": [
+              {
+                "nombre": "Spam Sketch",
+                "personajes": [
+                  { "personaje": "Sr. Bun (Cliente)", "actor": "Eric Idle" },
+                  {
+                    "personaje": "Sra. Bun (Esposa)",
+                    "actor": "Graham Chapman"
+                  },
+                  {
+                    "personaje": "Camarera / Propietaria",
+                    "actor": "Terry Jones"
+                  },
+                  {
+                    "personaje": "Coro de Vikingos",
+                    "actor": "John Cleese, Michael Palin"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "numero": 11,
+            "titulo": "Royal Episode 13",
+            "duracion_minutos": 30,
+            "sinopsis": "Una humilde pareja de clase trabajadora entra en pánico extremo e intenta limpiar su casa de forma histérica ante la supuesta visita de la Reina.",
+            "sketches": [
+              {
+                "nombre": "The Queen is Coming (La reina viene a cenar)",
+                "personajes": [
+                  {
+                    "personaje": "Anfitrión de clase baja",
+                    "actor": "Terry Jones"
+                  },
+                  {
+                    "personaje": "Esposa del anfitrión",
+                    "actor": "Graham Chapman"
+                  }
+                ]
+              },
+              {
+                "nombre": "The Submarine Sketch (El submarino abandonado)",
+                "personajes": [
+                  {
+                    "personaje": "Capitán del submarino",
+                    "actor": "John Cleese"
+                  },
+                  {
+                    "personaje": "Oficial insubordinado",
+                    "actor": "Michael Palin"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "numero": 12,
+            "titulo": "Raymond Luxury Yacht",
+            "duracion_minutos": 30,
+            "sinopsis": "Un hombre acude al cirujano plástico insistiendo en que su pomposo nombre se pronuncia de una manera completamente diferente a como se escribe.",
+            "sketches": [
+              {
+                "nombre": "Raymond Luxury Yacht (El hombre con el nombre extraño)",
+                "personajes": [
+                  {
+                    "personaje": "Raymond Luxury Yacht",
+                    "actor": "Graham Chapman"
+                  },
+                  {
+                    "personaje": "Entrevistador / Especialista",
+                    "actor": "John Cleese"
+                  }
+                ]
+              },
+              {
+                "nombre": "The Registry Office (La oficina de registro de matrimonios)",
+                "personajes": [
+                  {
+                    "personaje": "Funcionario excéntrico",
+                    "actor": "John Cleese"
+                  },
+                  { "personaje": "Novio", "actor": "Michael Palin" }
+                ]
+              }
+            ]
+          },
+          {
+            "numero": 13,
+            "titulo": "Show 5",
+            "duracion_minutos": 30,
+            "sinopsis": "El cierre de temporada explora mitologías absurdas sobre Francia y un club de apicultores aristocráticos que no saben nada sobre abejas.",
+            "sketches": [
+              {
+                "nombre": "The French Myths (Mitos y leyendas francesas)",
+                "personajes": [
+                  {
+                    "personaje": "Conferenciante francés",
+                    "actor": "John Cleese"
+                  },
+                  {
+                    "personaje": "Asistente de laboratorio",
+                    "actor": "Michael Palin"
+                  }
+                ]
+              },
+              {
+                "nombre": "Beekeepers Sketch (Apicultores de clase alta)",
+                "personajes": [
+                  { "personaje": "Apicultor 1", "actor": "John Cleese" },
+                  { "personaje": "Apicultor 2", "actor": "Graham Chapman" }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "temporada": 3,
+        "año_emision": "1972-1973",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Whicker's World",
+            "duracion_minutos": 30,
+            "sinopsis": "Un recorrido satírico por una isla tropical habitada exclusivamente por clones del famoso periodista de viajes Alan Whicker.",
+            "sketches": [
+              {
+                "nombre": "Whicker's Island (La isla de los Whicker)",
+                "personajes": [
+                  { "personaje": "Alan Whicker 1", "actor": "Eric Idle" },
+                  { "personaje": "Alan Whicker 2", "actor": "John Cleese" },
+                  { "personaje": "Alan Whicker 3", "actor": "Michael Palin" }
+                ]
+              },
+              {
+                "nombre": "Courtroom Sketch / Multiple Murderer",
+                "personajes": [
+                  { "personaje": "Juez", "actor": "Terry Jones" },
+                  { "personaje": "Asesino convicto", "actor": "John Cleese" }
+                ]
+              }
+            ]
+          },
+          {
+            "numero": 2,
+            "titulo": "Mr. & Mrs. Brian Norris's Ford Popular",
+            "duracion_minutos": 30,
+            "sinopsis": "Incluye uno de los gags visuales más cortos e icónicos de la serie donde dos hombres se golpean de forma rítmica con peces pequeños.",
+            "sketches": [
+              {
+                "nombre": "The Fish-Slapping Dance (La danza de los bofetones de pescado)",
+                "personajes": [
+                  {
+                    "personaje": "Bailarín con pez pequeño",
+                    "actor": "John Cleese"
+                  },
+                  {
+                    "personaje": "Bailarín con pez grande",
+                    "actor": "Michael Palin"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "numero": 3,
+            "titulo": "The Money Programme",
+            "duracion_minutos": 30,
+            "sinopsis": "Un cliente desesperado paga una tarifa por cinco minutos de discusión intelectual en una surrealista oficina burocrática.",
+            "sketches": [
+              {
+                "nombre": "Argument Clinic (La clínica de la discusión)",
+                "personajes": [
+                  {
+                    "personaje": "Sr. Barnard (Cliente)",
+                    "actor": "Michael Palin"
+                  },
+                  {
+                    "personaje": "Discutidor profesional",
+                    "actor": "John Cleese"
+                  },
+                  {
+                    "personaje": "Instructor de golpes en la cabeza",
+                    "actor": "Terry Jones"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "numero": 4,
+            "titulo": "Blood, Devastation, Death, War and Horror",
+            "duracion_minutos": 30,
+            "sinopsis": "Un implacable banquero comercial lleva al extremo absurdo las exigencias de intereses a un cliente adinerado.",
+            "sketches": [
+              {
+                "nombre": "The Merchant Banker (El banquero mercantil)",
+                "personajes": [
+                  {
+                    "personaje": "Banquero despiadado",
+                    "actor": "John Cleese"
+                  },
+                  { "personaje": "Cliente indefenso", "actor": "Michael Palin" }
+                ]
+              }
+            ]
+          },
+          {
+            "numero": 5,
+            "titulo": "The All-England Summarize Proust Competition",
+            "duracion_minutos": 30,
+            "sinopsis": "Un concurso de televisión donde los participantes deben resumir la extensa obra de Marcel Proust en pocos segundos vistiendo traje de baño.",
+            "sketches": [
+              {
+                "nombre": "Proust Competition (El concurso Proust)",
+                "personajes": [
+                  { "personaje": "Presentador", "actor": "Eric Idle" },
+                  {
+                    "personaje": "Concursante Harry",
+                    "actor": "Graham Chapman"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "numero": 6,
+            "titulo": "The Tory Handball Party",
+            "duracion_minutos": 30,
+            "sinopsis": "Un cruce absurdo entre la política conservadora y deportes escolares, seguido de tratamientos médicos ridículos.",
+            "sketches": [
+              {
+                "nombre": "Doctor Sketch (El médico incompetente)",
+                "personajes": [
+                  { "personaje": "Médico", "actor": "Graham Chapman" },
+                  { "personaje": "Paciente", "actor": "John Cleese" }
+                ]
+              }
+            ]
+          },
+          {
+            "numero": 7,
+            "titulo": "The Cycling Tour",
+            "duracion_minutos": 30,
+            "sinopsis": "El primer episodio de la serie que cuenta una sola historia continua, siguiendo las desventuras del torpe ciclista Sr. Pither.",
+            "sketches": [
+              {
+                "nombre": "The Cycling Tour (El viaje en bicicleta)",
+                "personajes": [
+                  { "personaje": "Reg Pither", "actor": "Michael Palin" },
+                  { "personaje": "Sr. Gulliver", "actor": "Terry Jones" }
+                ]
+              }
+            ]
+          },
+          {
+            "numero": 8,
+            "titulo": "The Nude Man",
+            "duracion_minutos": 30,
+            "sinopsis": "La aparición recurrente de un hombre desnudo al piano interrumpe las noticias institucionales y los juicios de la corte.",
+            "sketches": [
+              {
+                "nombre": "The Nude Organist (El organista desnudo)",
+                "personajes": [
+                  { "personaje": "Músico sin ropa", "actor": "Terry Jones" }
+                ]
+              }
+            ]
+          },
+          {
+            "numero": 9,
+            "titulo": "The Living Body",
+            "duracion_minutos": 30,
+            "sinopsis": "Un falso documental educativo de salud se transforma en una sátira sobre los milagros médicos modernos y los seguros privados.",
+            "sketches": [
+              {
+                "nombre": "The Brain Specialist (El especialista en cerebros)",
+                "personajes": [
+                  { "personaje": "Cirujano", "actor": "John Cleese" },
+                  {
+                    "personaje": "Paciente confundido",
+                    "actor": "Graham Chapman"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "numero": 10,
+            "titulo": "E. Henry Thripshaw's Disease",
+            "duracion_minutos": 30,
+            "sinopsis": "Un hombre acude al médico con una enfermedad imaginaria que consiste en que las palabras del diccionario cambian de lugar.",
+            "sketches": [
+              {
+                "nombre": "The Word Association Football",
+                "personajes": [
+                  {
+                    "personaje": "Comentarista deportivo",
+                    "actor": "John Cleese"
+                  },
+                  { "personaje": "Entrevistado", "actor": "Eric Idle" }
+                ]
+              }
+            ]
+          },
+          {
+            "numero": 11,
+            "titulo": "Dennis Moore",
+            "duracion_minutos": 30,
+            "sinopsis": "Sátira de Robin Hood donde un bandolero asalta a los ricos para darles a los pobres un exceso absurdo de plantas de altramuz.",
+            "sketches": [
+              {
+                "nombre": "Dennis Moore (El bandido de los altramuces)",
+                "personajes": [
+                  { "personaje": "Dennis Moore", "actor": "Michael Palin" },
+                  { "personaje": "Noble asaltado", "actor": "John Cleese" }
+                ]
+              }
+            ]
+          },
+          {
+            "numero": 12,
+            "titulo": "A Book at Bedtime",
+            "duracion_minutos": 30,
+            "sinopsis": "Un programa nocturno de lectura literaria es interrumpido constantemente por debates teológicos de dudosa moralidad.",
+            "sketches": [
+              {
+                "nombre": "The Kamikaze Highlanders",
+                "personajes": [
+                  { "personaje": "Oficial escocés", "actor": "Eric Idle" },
+                  { "personaje": "Soldado kamikaze", "actor": "Terry Jones" }
+                ]
+              }
+            ]
+          },
+          {
+            "numero": 13,
+            "titulo": "Grand Stand",
+            "duracion_minutos": 30,
+            "sinopsis": "Cierre de temporada que parodia las transmisiones deportivas maratónicas de la BBC mezclando disciplinas inexistentes.",
+            "sketches": [
+              {
+                "nombre": "The Olympic Hide and Seek",
+                "personajes": [
+                  { "personaje": "Narrador deportivo", "actor": "John Cleese" },
+                  {
+                    "personaje": "Concursante escondido",
+                    "actor": "Graham Chapman"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "temporada": 4,
+        "año_emision": "1974",
+        "nota_produccion": "Esta temporada se emitió bajo el título simplificado 'Monty Python' y no contó con la participación de John Cleese.",
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "The Golden Age of Ballooning",
+            "duracion_minutos": 30,
+            "sinopsis": "Una sátira de época sobre los pioneros de la aviación en globo y la rivalidad entre intelectuales franceses decimonónicos.",
+            "sketches": [
+              {
+                "nombre": "The Montgolfier Brothers",
+                "personajes": [
+                  { "personaje": "Joseph Montgolfier", "actor": "Terry Jones" },
+                  {
+                    "personaje": "Jacques Montgolfier",
+                    "actor": "Michael Palin"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "numero": 2,
+            "titulo": "Michael Ellis",
+            "duracion_minutos": 30,
+            "sinopsis": "Un hombre entra a unos grandes almacenes para comprar una hormiga como mascota y termina atrapado en un laberinto burocrático de identidad.",
+            "sketches": [
+              {
+                "nombre": "The Department Store / Pet Ant",
+                "personajes": [
+                  {
+                    "personaje": "Cliente (Michael Ellis)",
+                    "actor": "Eric Idle"
+                  },
+                  {
+                    "personaje": "Dependiente de mascotas",
+                    "actor": "Michael Palin"
+                  },
+                  {
+                    "personaje": "Gerente de quejas",
+                    "actor": "Graham Chapman"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "numero": 3,
+            "titulo": "The Light Entertainment War",
+            "duracion_minutos": 30,
+            "sinopsis": "Una mirada ácida al mundo de la televisión ligera de variedades y cómo la guerra mundial se libraría mediante sketches cómicos.",
+            "sketches": [
+              {
+                "nombre": "The War Station Sketch",
+                "personajes": [
+                  {
+                    "personaje": "General del ejército",
+                    "actor": "Graham Chapman"
+                  },
+                  {
+                    "personaje": "Productor de variedades",
+                    "actor": "Michael Palin"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "numero": 4,
+            "titulo": "Hamlet",
+            "duracion_minutos": 30,
+            "sinopsis": "La obra clásica de Shakespeare es saboteada por psiquiatras, interrupciones publicitarias y la madre de Hamlet que exige cambios en el guion.",
+            "sketches": [
+              {
+                "nombre": "Hamlet and the Psychiatrist",
+                "personajes": [
+                  { "personaje": "Príncipe Hamlet", "actor": "Graham Chapman" },
+                  { "personaje": "Doctor Psiquiatra", "actor": "Michael Palin" }
+                ]
+              }
+            ]
+          },
+          {
+            "numero": 5,
+            "titulo": "Mr. Neutron",
+            "duracion_minutos": 30,
+            "sinopsis": "El hombre más peligroso y poderoso del universo se esconde pacíficamente en los suburbios ingleses sembrando el pánico del gobierno.",
+            "sketches": [
+              {
+                "nombre": "Mr. Neutron in Suburbia",
+                "personajes": [
+                  { "personaje": "Mr. Neutron", "actor": "Graham Chapman" },
+                  { "personaje": "Sra. Surbon", "actor": "Terry Jones" },
+                  {
+                    "personaje": "General de los EE. UU.",
+                    "actor": "Michael Palin"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "numero": 6,
+            "titulo": "Party Political Broadcast",
+            "duracion_minutos": 30,
+            "sinopsis": "El episodio final de la serie adopta la forma de una caótica y falsa emisión política que colapsa debido a las disputas internas del grupo.",
+            "sketches": [
+              {
+                "nombre": "The Most Awful Family in Britain",
+                "personajes": [
+                  {
+                    "personaje": "Padre de familia",
+                    "actor": "Graham Chapman"
+                  },
+                  { "personaje": "Madre de familia", "actor": "Terry Jones" },
+                  { "personaje": "Hijo desagradable", "actor": "Eric Idle" }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "peliculas": {
+    "serie": "Monty Python",
+    "categoria": "Películas",
+    "peliculas_totales": 4,
+    "datos": [
+      {
+        "titulo": "And Now for Something Completely Different (Se armó la gorda)",
+        "año_estreno": 1971,
+        "duracion_minutos": 88,
+        "sinopsis": "Una antología que reúne los mejores sketches de las dos primeras temporadas de la serie de televisión, vueltos a filmar especialmente para el cine.",
+        "sketches_principales": [
+          {
+            "nombre": "The Dead Parrot (El loro muerto)",
+            "personajes": [
+              { "personaje": "Sr. Praline (Cliente)", "actor": "John Cleese" },
+              { "personaje": "Dueño de la tienda", "actor": "Michael Palin" }
+            ]
+          },
+          {
+            "nombre": "The Ministry of Silly Walks (El ministerio de andares tontos)",
+            "personajes": [
+              {
+                "personaje": "Ministro de andares tontos",
+                "actor": "John Cleese"
+              },
+              { "personaje": "John Pebbles", "actor": "Michael Palin" }
+            ]
+          },
+          {
+            "nombre": "The Lumberjack Song (La canción del leñador)",
+            "personajes": [
+              { "personaje": "Leñador", "actor": "Michael Palin" },
+              { "personaje": "Novia", "actor": "Connie Booth" }
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Monty Python and the Holy Grail (Los caballeros de la mesa cuadrada)",
+        "año_estreno": 1975,
+        "duracion_minutos": 91,
+        "sinopsis": "Parodia surrealista de las leyendas del Rey Arturo y sus caballeros en su caótica e hilarante búsqueda del Santo Grial.",
+        "sketches_principales": [
+          {
+            "nombre": "The Black Knight (El Caballero Negro)",
+            "personajes": [
+              { "personaje": "Rey Arturo", "actor": "Graham Chapman" },
+              { "personaje": "Caballero Negro", "actor": "John Cleese" }
+            ]
+          },
+          {
+            "nombre": "The Knights Who Say 'Ni!' (Los Caballeros que dicen ¡Ni!)",
+            "personajes": [
+              {
+                "personaje": "Líder de los Caballeros",
+                "actor": "Michael Palin"
+              },
+              { "personaje": "Rey Arturo", "actor": "Graham Chapman" }
+            ]
+          },
+          {
+            "nombre": "The French Taunter (El burlador francés)",
+            "personajes": [
+              { "personaje": "Soldado francés burlón", "actor": "John Cleese" },
+              { "personaje": "Rey Arturo", "actor": "Graham Chapman" }
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Monty Python's Life of Brian (La vida de Brian)",
+        "año_estreno": 1979,
+        "duracion_minutos": 94,
+        "sinopsis": "La historia de Brian de Nazaret, un joven judío que nace el mismo día que Jesucristo y es confundido por las masas con el verdadero Mesías.",
+        "sketches_principales": [
+          {
+            "nombre": "Romanes Eunt Domus (Pintada en la pared)",
+            "personajes": [
+              { "personaje": "Brian de Nazaret", "actor": "Graham Chapman" },
+              { "personaje": "Centurión Romano", "actor": "John Cleese" }
+            ]
+          },
+          {
+            "nombre": "Biggus Dickus (Pijus Magnificus)",
+            "personajes": [
+              { "personaje": "Poncio Pilato", "actor": "Michael Palin" },
+              { "personaje": "Pijus Magnificus", "actor": "Graham Chapman" },
+              { "personaje": "Centurión", "actor": "John Cleese" }
+            ]
+          },
+          {
+            "nombre": "Always Look on the Bright Side of Life (Final de la crucifixión)",
+            "personajes": [
+              { "personaje": "Brian de Nazaret", "actor": "Graham Chapman" },
+              {
+                "personaje": "Sr. Frívolo (Cantante en la cruz)",
+                "actor": "Eric Idle"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Monty Python's The Meaning of Life (El sentido de la vida)",
+        "año_estreno": 1983,
+        "duracion_minutos": 107,
+        "sinopsis": "Una sátira estructurada en diferentes etapas de la vida humana (desde el nacimiento hasta la muerte) que intenta responder al gran dilema de la existencia.",
+        "sketches_principales": [
+          {
+            "nombre": "The Miracle of Birth (El milagro del nacimiento)",
+            "personajes": [
+              { "personaje": "Médico obstetra", "actor": "John Cleese" },
+              { "personaje": "Madre en parto", "actor": "Carol Cleveland" },
+              {
+                "personaje": "Administrador del hospital",
+                "actor": "Graham Chapman"
+              }
+            ]
+          },
+          {
+            "nombre": "Every Sperm is Sacred (Todo espermatozoide es sagrado)",
+            "personajes": [
+              { "personaje": "Padre católico", "actor": "Michael Palin" },
+              { "personaje": "Madre católica", "actor": "Terry Jones" }
+            ]
+          },
+          {
+            "nombre": "Mr. Creosote (El señor Creosota en el restaurante)",
+            "personajes": [
+              {
+                "personaje": "Sr. Creosota (Cliente glotón)",
+                "actor": "Terry Jones"
+              },
+              { "personaje": "Maître del restaurante", "actor": "John Cleese" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "otros_trabajos_directos": {
+    "serie": "Monty Python",
+    "categoria": "Otros trabajos (Documentales, Directos y Especiales)",
+    "total_items": 4,
+    "datos": [
+      {
+        "titulo": "Monty Python Live at the Hollywood Bowl",
+        "tipo": "Espectáculo en directo / Película de concierto",
+        "año_estreno": 1982,
+        "duracion_minutos": 77,
+        "sinopsis": "Grabación en vivo de las actuaciones del grupo en el mítico anfiteatro de Los Ángeles, donde interpretan sus sketches teatrales y televisivos más famosos frente a una audiencia multitudinaria.",
+        "sketches_principales": [
+          {
+            "nombre": "Four Yorkshiremen (Los cuatro hombres de Yorkshire)",
+            "personajes": [
+              { "personaje": "Hombre de negocios 1", "actor": "Eric Idle" },
+              {
+                "personaje": "Hombre de negocios 2",
+                "actor": "Graham Chapman"
+              },
+              { "personaje": "Hombre de negocios 3", "actor": "Terry Jones" },
+              { "personaje": "Hombre de negocios 4", "actor": "Michael Palin" }
+            ]
+          },
+          {
+            "nombre": "The Argument Clinic (La clínica de la discusión - En vivo)",
+            "personajes": [
+              {
+                "personaje": "Sr. Barnard (Cliente)",
+                "actor": "Michael Palin"
+              },
+              { "personaje": "Discutidor profesional", "actor": "John Cleese" }
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Monty Python: Almost the Truth (The Lawyers Cut)",
+        "tipo": "Serie documental biográfica",
+        "año_estreno": 2009,
+        "duracion_minutos": 360,
+        "sinopsis": "Documental definitivo de seis episodios que repasa la historia completa del grupo desde sus raíces previas a la BBC, el impacto cultural de la serie, el éxito en el cine y la trágica muerte de Graham Chapman, contado por los propios miembros supervivientes.",
+        "sketches_principales": [
+          {
+            "nombre": "Entrevistas de archivo y material retrospectivo",
+            "personajes": [
+              { "personaje": "Él mismo", "actor": "John Cleese" },
+              { "personaje": "Él mismo", "actor": "Michael Palin" },
+              { "personaje": "Él mismo", "actor": "Terry Gilliam" },
+              { "personaje": "Él mismo", "actor": "Eric Idle" },
+              { "personaje": "Él mismo", "actor": "Terry Jones" },
+              { "personaje": "Imágenes de archivo", "actor": "Graham Chapman" }
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Monty Python Live (Mostly): One Down, Five to Go",
+        "tipo": "Espectáculo de reunión en directo",
+        "año_estreno": 2014,
+        "duracion_minutos": 135,
+        "sinopsis": "La última actuación en directo de los miembros supervivientes del grupo en el estadio O2 de Londres, sirviendo como una gigantesca despedida musical y humorística de los escenarios internacionales.",
+        "sketches_principales": [
+          {
+            "nombre": "The Dead Parrot & Cheese Shop (Crossover de sketches clásicos)",
+            "personajes": [
+              { "personaje": "Sr. Praline / Cliente", "actor": "John Cleese" },
+              {
+                "personaje": "Dueño de la tienda de quesos y loros",
+                "actor": "Michael Palin"
+              }
+            ]
+          },
+          {
+            "nombre": "I Like Chinese (Segmento musical)",
+            "personajes": [
+              { "personaje": "Cantante principal", "actor": "Eric Idle" }
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Monty Python: The Meaning of Live",
+        "tipo": "Película documental entre bambalinas",
+        "año_estreno": 2015,
+        "duracion_minutos": 90,
+        "sinopsis": "Documental que ofrece una mirada íntima detrás de las cámaras durante la producción y los ensayos de su masivo espectáculo de reunión de 2014, analizando su legado e historia a través del prisma de sus shows teatrales.",
+        "sketches_principales": [
+          {
+            "nombre": "Ensayos de coreografías y preparativos técnicos",
+            "personajes": [
+              { "personaje": "Él mismo", "actor": "John Cleese" },
+              { "personaje": "Él mismo", "actor": "Michael Palin" },
+              { "personaje": "Él mismo", "actor": "Eric Idle" },
+              { "personaje": "Él mismo", "actor": "Terry Jones" },
+              { "personaje": "Él mismo", "actor": "Terry Gilliam" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "miscelanea": {
+    "serie": "Monty Python",
+    "categoria": "Miscelánea (Libros, Videojuegos y Discos)",
+    "total_items": 4,
+    "datos": [
+      {
+        "titulo": "The Big Red Book (El gran libro rojo)",
+        "tipo": "Libro de comedia impreso",
+        "año_estreno": 1971,
+        "duracion_minutos": null,
+        "sinopsis": "El primer libro oficial publicado por el grupo. A pesar de su título, la portada original era de color azul. Contiene material descartado de la serie de televisión, chistes visuales diseñados para papel, guiones alterados y textos absurdos escritos por los seis integrantes.",
+        "sketches_principales": [
+          {
+            "nombre": "Sección de textos e ilustraciones impresas",
+            "personajes": [
+              {
+                "personaje": "Textos y sátiras",
+                "actor": "Graham Chapman, John Cleese, Eric Idle, Terry Jones, Michael Palin"
+              },
+              {
+                "personaje": "Ilustraciones y diseño visual",
+                "actor": "Terry Gilliam"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "The Monty Python Matching Tie and Handkerchief",
+        "tipo": "Álbum de vinilo / Disco de comedia",
+        "año_estreno": 1973,
+        "duracion_minutos": 38,
+        "sinopsis": "Un álbum musical y de sketches revolucionario en su formato físico. Su edición original en vinilo fue masterizada con tres surcos concéntricos (dos en la cara B), lo que provocaba que el oyente escuchara un contenido diferente de manera aleatoria dependiendo de dónde cayera la aguja del tocadiscos.",
+        "sketches_principales": [
+          {
+            "nombre": "The Background to History (Los antecedentes de la historia)",
+            "personajes": [
+              { "personaje": "Conferenciante erudito", "actor": "John Cleese" },
+              { "personaje": "Filósofo de bar", "actor": "Michael Palin" }
+            ]
+          },
+          {
+            "nombre": "Novel Writing (Escritura de novelas en directo)",
+            "personajes": [
+              {
+                "personaje": "Comentarista deportivo de literatura",
+                "actor": "John Cleese"
+              },
+              {
+                "personaje": "Thomas Hardy (Escritor en su mesa)",
+                "actor": "Terry Jones"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Monty Python's Complete Waste of Time",
+        "tipo": "Videojuego interactivo de PC (CD-ROM)",
+        "año_estreno": 1994,
+        "duracion_minutos": null,
+        "sinopsis": "Una de las primeras producciones interactivas del grupo para ordenadores. El videojuego recopila minijuegos surrealistas, animaciones nunca vistas y clips de audio interactivos en los que el usuario debe explorar los recovecos del cerebro de un clon digital para resolver rompecabezas absurdos.",
+        "sketches_principales": [
+          {
+            "nombre": "The Exploding Bluebottle (La mosca explosiva)",
+            "personajes": [
+              {
+                "personaje": "Voces e instrucciones interactivas",
+                "actor": "Michael Palin"
+              },
+              { "personaje": "Voces del sistema", "actor": "John Cleese" },
+              {
+                "personaje": "Animaciones de interfaz",
+                "actor": "Terry Gilliam"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Monty Python & The Quest for the Holy Grail",
+        "tipo": "Videojuego de aventura gráfica (PC)",
+        "año_estreno": 1996,
+        "duracion_minutos": null,
+        "sinopsis": "Aventura gráfica point-and-click basada de manera directa en los escenarios de la película de 1975. El jugador debe guiar al Rey Arturo recopilando objetos ridículos, esquivando vacas lanzadas por franceses y participando en juegos integrados como el tiro al blanco con caballeros.",
+        "sketches_principales": [
+          {
+            "nombre": "El laberinto de los Caballeros que dicen Ni",
+            "personajes": [
+              {
+                "personaje": "Líder de los caballeros (Voz)",
+                "actor": "Michael Palin"
+              },
+              {
+                "personaje": "Narrador del inventario (Voz)",
+                "actor": "Eric Idle"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "biografias_integrantes": {
+    "serie": "Monty Python",
+    "categoria": "Biografías de los Integrantes",
+    "miembros_totales": 6,
+    "datos": [
+      {
+        "nombre": "Graham Chapman",
+        "estado": "Fallecido (1941 - 1989)",
+        "rol_en_monty_python": "Actor principal y coescritor (junto a John Cleese). Frecuentemente interpretaba a los personajes de autoridad con rostro imperturbable y lideró como protagonista 'Monty Python and the Holy Grail' (Rey Arturo) y 'Life of Brian' (Brian de Nazaret).",
+        "proyectos_fuera_del_grupo": {
+          "cine_y_tv": [
+            {
+              "titulo": "The Odd Job",
+              "rol": "Actor y productor",
+              "año": 1978
+            },
+            {
+              "titulo": "Yellowbeard (El pirata Barbanegra)",
+              "rol": "Actor y coguionista",
+              "año": 1983
+            },
+            {
+              "titulo": "The Magic Christian (Si quieres ser millonario no malgastes el tiempo con los demás)",
+              "rol": "Coescritor del guion",
+              "año": 1969
+            }
+          ],
+          "literatura_y_otros": [
+            {
+              "titulo": "A Liar's Autobiography: Volume VI",
+              "tipo": "Libro de memorias / Autobiografía ficcionalizada",
+              "año": 1980
+            },
+            {
+              "titulo": "Giras universitarias de conferencias (EE. UU.)",
+              "tipo": "Monólogos y charlas de humor absurdo",
+              "año": "Década de 1980"
+            }
+          ]
+        }
+      },
+      {
+        "nombre": "John Cleese",
+        "estado": "Activo",
+        "rol_en_monty_python": "Actor principal y coescritor (junto a Graham Chapman). Célebre por su imponente altura, su humor negro y sus explosiones de ira satírica. Creador e intérprete del inolvidable sketch del 'Ministerio de andares tontos'.",
+        "proyectos_fuera_del_grupo": {
+          "cine_y_tv": [
+            {
+              "titulo": "Fawlty Towers",
+              "rol": "Creador, guionista y actor principal (Basil Fawlty)",
+              "año": "1975-1979"
+            },
+            {
+              "titulo": "A Fish Called Wanda (Un pez llamado Wanda)",
+              "rol": "Actor, productor y guionista (Nominado al Óscar)",
+              "año": 1988
+            },
+            {
+              "titulo": "Fierce Creatures (Criaturas feroces)",
+              "rol": "Actor, productor y guionista",
+              "año": 1997
+            },
+            {
+              "titulo": "Sagas Harry Potter, James Bond (como R/Q) y Shrek (Voz del Rey Harold)",
+              "rol": "Actor / Actor de voz",
+              "año": "1999-2010"
+            },
+            {
+              "titulo": "John Cleese Packs It In / Fawlty Towers: The Play",
+              "rol": "Guionista y monologuista en giras",
+              "año": 2025
+            }
+          ],
+          "literatura_y_otros": [
+            {
+              "titulo": "So, Anyway...",
+              "tipo": "Libro de memorias autobiográficas",
+              "año": 2014
+            },
+            {
+              "titulo": "Gira internacional de monólogos 'Not Dead Yet!'",
+              "tipo": "Espectáculo cómico en vivo en teatros",
+              "año": 2026
+            }
+          ]
+        }
+      },
+      {
+        "nombre": "Michael Palin",
+        "estado": "Activo",
+        "rol_en_monty_python": "Actor principal y coescritor (junto a Terry Jones). Aportó al grupo una enorme versatilidad interpretativa, encarnando tanto a hombres inocentes e ingenuos como a estafadores carismáticos (como el dueño de la tienda de loros muertos).",
+        "proyectos_fuera_del_grupo": {
+          "cine_y_tv": [
+            {
+              "titulo": "Ripping Yarns",
+              "rol": "Cocreador, guionista y actor",
+              "año": "1976-1979"
+            },
+            {
+              "titulo": "The Missionary (El misionero)",
+              "rol": "Actor y guionista",
+              "año": 1982
+            },
+            {
+              "titulo": "A Fish Called Wanda (Un pez llamado Wanda)",
+              "rol": "Actor (Ganador del premio BAFTA)",
+              "año": 1988
+            },
+            {
+              "titulo": "The Death of Stalin (La muerte de Stalin)",
+              "rol": "Actor (Personaje de Viacheslav Mólotov)",
+              "año": 2017
+            },
+            {
+              "titulo": "Small Prophets",
+              "rol": "Actor de reparto en la serie de televisión",
+              "año": 2025
+            }
+          ],
+          "documentales_de_viajes_y_libros": [
+            {
+              "titulo": "Around the World in 80 Days / Pole to Pole / Sahara / Himalaya",
+              "tipo": "Series documentales de viajes icónicas para la BBC",
+              "año": "1989-2004"
+            },
+            {
+              "titulo": "There and Back: Diaries 1999-2009",
+              "tipo": "Libro de diarios personales",
+              "año": 2024
+            },
+            {
+              "titulo": "Michael Palin in Venezuela",
+              "tipo": "Libro de crónicas de viaje y serie de televisión",
+              "año": 2025
+            }
+          ]
+        }
+      },
+      {
+        "nombre": "Terry Jones",
+        "estado": "Fallecido (1942 - 2020)",
+        "rol_en_monty_python": "Actor principal, coescritor (junto a Michael Palin) y director de las películas del grupo. Fue el responsable directo de dar forma a la narrativa cinematográfica del equipo y era célebre por sus interpretaciones de mujeres chillonas de mediana edad.",
+        "proyectos_fuera_del_grupo": {
+          "cine_y_tv": [
+            {
+              "titulo": "Personal Services (Servicios personales)",
+              "rol": "Director de la película",
+              "año": 1987
+            },
+            {
+              "titulo": "Erik the Viking (Erik el vikingo)",
+              "rol": "Director, guionista y actor",
+              "año": 1989
+            },
+            {
+              "titulo": "The Wind in the Willows (Viento en los sauces)",
+              "rol": "Director, guionista y actor",
+              "año": 1996
+            },
+            {
+              "titulo": "Absolutely Anything",
+              "rol": "Director y coguionista de la película",
+              "año": 2015
+            }
+          ],
+          "documentales_historicos_y_libros": [
+            {
+              "titulo": "Medieval Lives / Barbarians",
+              "tipo": "Series documentales de divulgación histórica para la BBC",
+              "año": "2004-2006"
+            },
+            {
+              "titulo": "Fairy Tales / Nicobobinus",
+              "tipo": "Libros de cuentos y literatura infantil de ficción",
+              "año": "1981-1985"
+            }
+          ]
+        }
+      },
+      {
+        "nombre": "Eric Idle",
+        "estado": "Activo",
+        "rol_en_monty_python": "Actor principal y escritor en solitario. Compositor de la inmensa mayoría de las canciones del grupo (incluyendo 'Always Look on the Bright Side of Life'). Su estilo se basaba en juegos de palabras rápidos y personajes con doble sentido.",
+        "proyectos_fuera_del_grupo": {
+          "cine_y_tv": [
+            {
+              "titulo": "The Rutles: All You Need Is Cash",
+              "rol": "Cocreador, codirector, guionista y actor",
+              "año": 1978
+            },
+            {
+              "titulo": "Nuns on the Run (Monjas a la carrera)",
+              "rol": "Actor principal",
+              "año": 1990
+            },
+            {
+              "titulo": "Splitting Heirs (Ricos y herederos)",
+              "rol": "Actor, productor y guionista",
+              "año": 1993
+            },
+            {
+              "titulo": "Casper / Shrek the Third (Voz de Merlín)",
+              "rol": "Actor / Actor de voz en producciones de Hollywood",
+              "año": "1995-2007"
+            }
+          ],
+          "teatro_musical_y_libros": [
+            {
+              "titulo": "Spamalot (Musical de Broadway)",
+              "tipo": "Creador, escritor del libreto y compositor de canciones (Ganador del Premio Tony)",
+              "año": 2005
+            },
+            {
+              "titulo": "Always Look on the Bright Side of Life: A Sortabiography",
+              "tipo": "Libro de memorias literarias",
+              "año": 2018
+            }
+          ]
+        }
+      },
+      {
+        "nombre": "Terry Gilliam",
+        "estado": "Activo",
+        "rol_en_monty_python": "Animador gráfico del programa de televisión y codirector cinematográfico. Único miembro americano del grupo. Sus surrealistas animaciones de collage fotográfico recortado a mano definieron la identidad e identidad visual abstracta de los Python.",
+        "proyectos_fuera_del_grupo": {
+          "direccion_de_cine": [
+            { "titulo": "Jabberwocky (La bestia del reino)", "año": 1977 },
+            { "titulo": "Time Bandits (Los héroes del tiempo)", "año": 1981 },
+            {
+              "titulo": "Brazil",
+              "año": 1985,
+              "nota": "Obra de culto nominada a los Premios Óscar"
+            },
+            { "titulo": "The Adventures of Baron Munchausen", "año": 1988 },
+            { "titulo": "The Fisher King (El rey pescador)", "año": 1991 },
+            { "titulo": "12 Monkeys (Doce monos)", "año": 1995 },
+            {
+              "titulo": "Fear and Loathing in Las Vegas (Miedo y asco en Las Vegas)",
+              "año": 1998
+            },
+            {
+              "titulo": "The Man Who Killed Don Quixote (El hombre que mató a Don Quijote)",
+              "año": 2018
+            }
+          ],
+          "literatura_y_memorias": [
+            {
+              "titulo": "Gilliamesque: A Pre-Posthumous Memoir",
+              "tipo": "Libro autobiográfico e ilustrado",
+              "año": 2015
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

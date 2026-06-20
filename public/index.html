@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Monty Python API - Documentación Interactiva</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header class="navbar">
+        <div class="logo">⚔️ The Monty Python API</div>
+        <nav>
+            <a href="#introduccion">Inicio</a>
+            <a href="#inyector">Consola Viva</a>
+            <a href="#endpoints">Endpoints</a>
+        </nav>
+    </header>
+
+    <!-- Héroe de Bienvenida al estilo Rick & Morty -->
+    <section class="hero-section">
+        <h1>And Now for Something Completely Different...</h1>
+        <p>La API definitiva de la troupe de comedia británica más influyente de todos los tiempos.</p>
+        <div class="stats-container">
+            <div class="stat-card"><h3>1</h3><p>Archivo Maestro</p></div>
+            <div class="stat-card"><h3>5</h3><p>Secciones CRUD</p></div>
+            <div class="stat-card"><h3>4</h3><p>Temporadas</p></div>
+            <div class="stat-card"><h3>6</h3><p>Miembros Fundadores</p></div>
+        </div>
+    </section>
+
+    <main class="container">
+        <!-- Navegación Lateral -->
+        <aside class="sidebar">
+            <h3>Navegación</h3>
+            <ul>
+                <li><a href="#introduccion">Introducción</a></li>
+                <li><a href="#personajes">Integrantes</a></li>
+                <li><a href="#inyector">⚡ Consola Interactiva</a></li>
+                <li><a href="#autenticacion">Autenticación</a></li>
+                <li><a href="#endpoints-doc">Endpoints de la API</a></li>
+            </ul>
+        </aside>
+
+        <!-- Contenido Central -->
+        <section class="content">
+            <article id="introduccion">
+                <h2>Introducción</h2>
+                <p>Bienvenido al entorno de desarrollo. Esta API ha sido diseñada para que los alumnos practiquen peticiones HTTP (GET, POST, PUT, DELETE) sobre estructuras complejas de datos en memoria, totalmente aislados entre sí mediante el uso de tokens.</p>
+            </article>
+
+            <!-- Sección de Personajes Personalizada -->
+            <article id="personajes">
+                <h2>Miembros Legendarios</h2>
+                <div class="character-grid">
+                    <div class="character-card">
+                        <div class="card-info">
+                            <h4>John Cleese</h4>
+                            <p class="status">🟢 Estado: Activo</p>
+                            <span class="label">Rol Destacado:</span>
+                            <p class="val">Ministerio de Andares Tontos / Co-creador</p>
+                        </div>
+                    </div>
+                    <div class="character-card">
+                        <div class="card-info">
+                            <h4>Graham Chapman</h4>
+                            <p class="status">🔴 Estado: Fallecido (1989)</p>
+                            <span class="label">Rol Destacado:</span>
+                            <p class="val">Rey Arturo (Los caballeros de la mesa cuadrada)</p>
+                        </div>
+                    </div>
+                </div>
+            </article>
+
+            <!-- INYECTOR INTERACTIVO DE PETICIONES -->
+            <article id="inyector">
+                <h2 style="color: #00bcd4;">⚡ Consola Interactiva (Inyector de Peticiones)</h2>
+                <p>Prueba las llamadas a la API en tiempo real sin salir del navegador. Configura tus datos y observa la respuesta del servidor instante a instante.</p>
+                
+                <div class="playground-box">
+                    <div class="form-group-row">
+                        <div class="form-item">
+                            <label>Tu Token de Alumno:</label>
+                            <input type="text" id="play-token" value="PROFESOR_TEST" placeholder="Ej: ALUMNO_JUAN_2026">
+                        </div>
+                        <div class="form-item">
+                            <label>Método HTTP:</label>
+                            <select id="play-method">
+                                <option value="GET">GET (Leer)</option>
+                                <option value="POST">POST (Crear)</option>
+                                <option value="RESET">POST (Resetear Todo)</option>
+                            </select>
+                        </div>
+                        <div class="form-item">
+                            <label>Sección / Recurso:</label>
+                            <select id="play-seccion">
+                                <option value="">Todo el JSON (Master)</option>
+                                <option value="peliculas">Películas</option>
+                                <option value="serie_televisiva">Serie Televisiva</option>
+                                <option value="biografias_integrantes">Biografías Integrantes</option>
+                                <option value="miscelanea">Miscelánea</option>
+                                <option value="otros_trabajos_directos">Otros Trabajos</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <!-- Campos para POST payload -->
+                    <div id="payload-container" class="form-item hidden" style="margin-top: 15px;">
+                        <label>Cuerpo JSON a enviar (Para inserciones):</label>
+                        <textarea id="play-payload" rows="5">{\n  "titulo": "El sentido de la vida",\n  "año_estreno": 1983,\n  "sinopsis": "Un repaso satírico por las etapas de la existencia humana."\n}</textarea>
+                    </div>
+
+                    <button id="btn-send" class="btn-primary">Lanzar Petición 🚀</button>
+
+                    <div class="response-container">
+                        <div class="response-header">
+                            <span>Respuesta de la API</span>
+                            <span id="response-status" class="status-badge">Esperando...</span>
+                        </div>
+                        <pre id="response-output">// Los datos en tiempo real aparecerán aquí tras pulsar el botón</pre>
+                    </div>
+                </div>
+            </article>
+
+            <!-- Documentación resumida de Endpoints -->
+            <article id="autenticacion">
+                <h2>Autenticación Requerida</h2>
+                <p>Todas las peticiones deben incluir obligatoriamente el token autorizado en las cabeceras HTTP:</p>
+                <div class="code-block">
+                    <pre>Authorization: TU_TOKEN_ASIGNADO</pre>
+                </div>
+            </article>
+        </section>
+    </main>
+
+    <script src="app.js"></script>
+</body>
+</html>
